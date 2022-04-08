@@ -1,4 +1,4 @@
-# A default function for Prime conditions  
+# A default function for Prime checking conditions  
 def PrimeChecker(a):  
     # Checking that given number is more than 1  
     if a > 1:  
